@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi!My name is Mafia Akter.
+I'm a student of Bangladesh University Of Business and Technology  with a passion for building innovative solutions to real-world problems.
 
-<!--
-**mafi407/mafi407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- Programming languages: C,C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- B.S. in Computer Science engineering in Bangladesh University of business And technology. 
+
+
+## Contact
+
+- Email: mahfiamafi20@gmail.com
+
