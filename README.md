@@ -1,4 +1,5 @@
-## Hi!My name is Mafia Akter.
+## Hi! I'm Mafia Akter.
+
 I'm a student of Bangladesh University Of Business and Technology  with a passion for building innovative solutions to real-world problems.
 
 ## Skills
